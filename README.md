@@ -1,9 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=📸YAN&fontSize=90)
 
-<!--
-**YAN9688/YAN9688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAN9688)](https://github.com/YAN9688/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAN9688)](https://github.com/YAN9688/github-readme-stats)
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688)](https://solved.ac/lache9688)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
