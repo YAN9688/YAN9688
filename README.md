@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAN9688)](https://github.com/YAN9688/github-readme-stats)
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준계정)(https://solved.ac/lache9688)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688)](https://solved.ac/lache9688)
 
 
 <!-- JAVA --> 
