@@ -5,29 +5,20 @@
 
 <br>
   
-<a href="https://github.com/YAN9688"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YAN9688&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/YAN9688?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YAN9688&layout=compact&langs_count=8&card_width=300" /></a>
+<a href="https://github.com/YAN9688"><img height=190 width=380 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688" /></a>
+<a href="https://github.com/YAN9688?tab=repositories"><img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YAN9688&layout=compact&langs_count=8&card_width=285" /></a>
 
 
 </div>
-<br>
-<div align="center">
 
-<img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688" />
-
-<img height=200 align="center" src="https://streak-stats.demolab.com/?user=YAN9688&theme=buefy&border=E4E2E2&card_width=400" />
-</div>
 <br>
-</div>
 <br>
-
 🌐 𝙻𝚒𝚗𝚔𝚜
 <br>
 <br>
 <a href="https://instagram.com/yan_dong9"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://https://blog.naver.com/yan_don"> <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> 
-<a href="https://yandong.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"></a>  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lache9688)](https://solved.ac/lache9688) 
+<a href="https://yandong.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <hr>
 
 <br>
