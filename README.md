@@ -5,7 +5,7 @@
 
 <br>
   
-<a href="https://github.com/YAN9688"><img height=190 width=380 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688" /></a>
+<a href="https://solved.ac/profile/lache9688"><img height=190 width=380 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lache9688" /></a>
 <a href="https://github.com/YAN9688?tab=repositories"><img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YAN9688&layout=compact&langs_count=8&card_width=285" /></a>
 
 
