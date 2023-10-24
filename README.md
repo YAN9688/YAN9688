@@ -20,6 +20,8 @@
 <br>
 </div>
 <br>
+　[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lache9688)](https://solved.ac/lache9688) 
 <hr>
 
 <br>
@@ -37,6 +39,7 @@
 <br>
 
 🌐 𝙻𝚒𝚗𝚔𝚜
+<br>
 <br>
 <a href="https://instagram.com/yan_dong9"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://https://blog.naver.com/yan_don"> <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> 
